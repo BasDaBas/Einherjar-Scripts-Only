@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e363abdc032e44d48a5c08b23f20ccf3
+timeCreated: 1481666572
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - VisRangedWeapon1: {fileID: 1000010923595998, guid: 8ba3db20e8b00ae419d06a72a1fa4214,
+      type: 2}
+  - VisRangedWeapon2: {fileID: 1000011470386524, guid: 57b96be48c86ce442b33ddc205b6ab03,
+      type: 2}
+  - VisRangedWeapon3: {fileID: 1000013825988810, guid: 34e44e52aaab4ff46b89a8dd15bb0403,
+      type: 2}
+  - weapon1: {fileID: 1000010589170460, guid: 5ebe6e8dbb091ce4e8d5cc32124e22ce, type: 2}
+  - weapon2: {fileID: 1000011529107256, guid: 780c70a428f42ce43b7ab55204723dd9, type: 2}
+  - weapon3: {fileID: 1000013714943150, guid: ebb127d84bde42d4fa9407259ca0e308, type: 2}
+  - cam: {instanceID: 0}
+  - aimPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
